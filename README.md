@@ -1,2 +1,12 @@
 # Professional Portfolio
-Portfolio website created for the sake of both satifying homework requirements as well as showcasing my programming skills to future employers.
+## Description
+
+A professional portfolio showcasing work I've done as a web devloper.
+
+## Usage
+
+To view the website, navigate to https://caffeinatedjitterbug.github.io/Professional-Portfolio/
+
+## License
+
+No license applied.
