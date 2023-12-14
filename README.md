@@ -1,4 +1,7 @@
 # Professional Portfolio
+
+![A screenshot of the live professional portfolio website](assets/images/Screenshot%20(13).png)
+
 ## Description
 
 A professional portfolio showcasing work I've done as a web devloper.
